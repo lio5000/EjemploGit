@@ -1,0 +1,13 @@
+body {
+  background-color: #f4f7f6;
+}
+
+table.table {
+  background-color: #ffffff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.table thead th {
+  background-color: #1f4068;
+  color: #ffffff;
+}
