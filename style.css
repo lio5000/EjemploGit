@@ -11,3 +11,23 @@ table.table {
   background-color: #1f4068;
   color: #ffffff;
 }
+
+header {
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  color: #ffffff;
+}
+
+header a {
+  color: #00adb5;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+header a:hover {
+  color: #ffffff;
+}
+
+footer {
+  background-color: #1a1a1a;
+  color: #ffffff;
+}
